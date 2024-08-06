@@ -21,12 +21,12 @@ MySql
  
 # Data Cleaning/Preparation
 In the initial stage of Data Preparation Phase , we performed the tasks
-Data loading and inspection 
-Data Cleaning and formatting
+1) Data loading and inspection 
+2) Data Cleaning and formatting
 
 
 # Result/Findings
 
-Most Pizzas are ordered in afternoon as compared to other time of the day
-January was highest in all of months in term of sales 
-Thai chicken pizza generates highest revenue among all the pizzas.
+1) Most Pizzas are ordered in afternoon as compared to other time of the day
+2) January was highest in all of months in term of sales 
+3) Thai chicken pizza generates highest revenue among all the pizzas.
