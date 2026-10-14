@@ -380,11 +380,37 @@ FROM (
 
 ## 🔑 Key Findings
 
-- **Customer Behavior:** High-value and repeat customers identified.
-- **Order Trends:** Peak hours, weekends, and seasonal patterns discovered.
-- **Menu Insights:** Top-selling pizzas, revenue contributors, and popular sizes identified.
-- **Revenue Analysis:** Monthly revenue, cumulative trends, and category-wise contributions analyzed.
-- **Operational Insights:** Average order size, daily pizzas, and staffing optimization recommendations provided.
+Headline KPIs
+
+Total revenue: 817.9K (the currency isn't shown)
+Total orders: 21.4K (the monthly figures sum to 21,350)
+Total pizzas sold: 49.6K
+Average pizzas per order: 2.3
+Average order value: 38.3
+
+Monthly order trend
+
+Peak month is July at about 1,935 orders. That label is partly hidden, but it's the figure that makes the months sum to the total.
+Lowest months are October (1,646) and September (1,661).
+Orders stay fairly flat at about 1,700–1,850 for most of the year. July's peak is roughly 18% above October's low.
+
+Pizzas sold by category
+
+Classic leads with 14.89K, about 30% of all pizzas sold.
+Supreme sells 11.99K, Veggie 11.65K, and Chicken 11.05K.
+Sales share by category is fairly even: Classic 27%, Supreme 25%, Veggie 24%, and Chicken takes the rest (its label is hidden).
+
+Sales by pizza size
+
+Large dominates at 46% of sales, followed by Regular at 22%.
+X-Large contributes only 2%.
+The label for the remaining ~30% is cut off (likely Medium).
+
+Orders by day of week
+
+Monday is the busiest day at about 3.5K orders.
+Sunday and Tuesday follow at 3.2K, and Friday and Saturday are each at 3.0K.
+Wednesday is the slowest at 2.6K, so Monday runs roughly 35% higher.
 
 ---
 
